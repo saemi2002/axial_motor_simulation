@@ -21,3 +21,7 @@ After some initial research I reached the conclusion, that the motor type discus
 My interest for PM-AFM was sparked by numerous articles and projects on this kind of motor. A selection is provided below:
 
 - [Coreless Axial Flux Motors, Ben Katz](https://build-its-inprogress.blogspot.com/2015/02/coreless-axial-flux-motors.html)
+- [Ironless Axial Flux Motor, Caden Kraft](https://cadenkraft.com/designing-a-coreless-axial-flux-motor-part-1/)
+- [Axial-flux permanent-magnet machine modeling, design, simulation and analysis, A. Mahmoudi, N. Abd Rahim, W. Ping Hew](https://www.researchgate.net/publication/228847506_Axial-flux_permanent-magnet_machine_modeling_design_simulation_and_analysis)
+
+## Choice of Motor Geometry
