@@ -15,3 +15,9 @@ After some initial research I reached the conclusion, that the motor type discus
   - The elimination of bulky iron cores decreases overall weight, as all copper windings can be placed very close to the permanent magnets
 - improved dynamics
   - reduced weight in the rotor can lead to highly dynamic motors, if the copper windings are used as a rotor
+
+## Acknowledgements
+
+My interest for PM-AFM was sparked by numerous articles and projects on this kind of motor. A selection is provided below:
+
+- [Coreless Axial Flux Motors, Ben Katz](https://build-its-inprogress.blogspot.com/2015/02/coreless-axial-flux-motors.html)
