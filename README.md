@@ -25,3 +25,11 @@ My interest for PM-AFM was sparked by numerous articles and projects on this kin
 - [Axial-flux permanent-magnet machine modeling, design, simulation and analysis, A. Mahmoudi, N. Abd Rahim, W. Ping Hew](https://www.researchgate.net/publication/228847506_Axial-flux_permanent-magnet_machine_modeling_design_simulation_and_analysis)
 
 ## Choice of Motor Geometry
+
+Numerous factors can influence the motor performance, efficiency and manufacturing process.
+
+### Rotor / Stator configuration
+
+PM-AFM commonly use either a double-rotor single-stator or double-stator single-rotor design, to achieve symmetrical magnetic flux and mechanical properties. To mitigate the need for a slip ring a double-rotor single-stator design was used, with the permanent magnets beeing placed on the rotor. In the future other geometries might be explored.
+
+### 
